@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body{
+    background: url(img/2146578.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: rgb(220, 223, 39);
+    font-size: 45px;
+    font-family: 'oswald';
+}
+
+.cabecalho{
+    margin-top: 140px;
+    font-size: 35px;
+}
+
+input{
+    border-radius: 10px;
+    background-color: rgb(28, 86, 161);
+    font-size: 15px;
+}
+
+#botao{
+    border-radius: 7px;
+    background-color: rgb(12, 118, 126);
+    font-size: 15px;
+}
